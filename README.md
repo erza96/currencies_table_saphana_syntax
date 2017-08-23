@@ -1,0 +1,1 @@
+# currencies_table_saphana_syntax
